@@ -58,7 +58,6 @@
   <li><code>Outlet_Size</code></li>
   <li><code>Outlet_Location_Type</code></li>
 </ul>
-<p><em>Note: File not included in this repository due to size or licensing. Please update the path if sharing publicly.</em></p>
 
 <h2>🔍 Insights</h2>
 <ul>
@@ -67,19 +66,8 @@
   <li>Certain item types significantly outperform others in terms of revenue.</li>
 </ul>
 
-<h2>🚀 Getting Started</h2>
-<p>To run this project locally:</p>
-<pre><code>git clone https://github.com/your-username/Blinkit_Analysis.git
-cd Blinkit_Analysis
-jupyter notebook Blinkit_Analysis.ipynb
-</code></pre>
-
-<p>Install required Python packages:</p>
-<pre><code>pip install pandas numpy matplotlib seaborn
-</code></pre>
-
 <h2>📌 Author</h2>
 <p>
   <strong>Rajhans Kumar Gupta</strong><br />
-  <em>3rd-year Engineering Student | E-commerce & Data Enthusiast</em>
+  <em>4rd-year Engineering Student | E-commerce & Data Enthusiast</em>
 </p>
